@@ -1,2 +1,3 @@
 # hello-world
-My fifst repository
+My first repository.
+This is the first time I will be modifying a repository.
